@@ -1,0 +1,29 @@
+{
+  "name": "stretch-flags",
+  "version": "1.0.0",
+  "authors": [
+    "StretchProjects <stretchprojects@gmail.com>"
+  ],
+  "description": "An element used to display multiple flags.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "stretch-flags.html",
+  "license": "",
+  "homepage": "https://github.com/StretchProjects/stretch-flags/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "stretch-flag": "StretchProjects/stretch-flag"
+  },
+  "devDependencies": {
+    "web-component-tester": "*"
+  }
+}
